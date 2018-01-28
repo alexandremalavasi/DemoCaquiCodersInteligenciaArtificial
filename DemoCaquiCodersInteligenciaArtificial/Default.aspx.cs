@@ -18,7 +18,7 @@ namespace DemoCaquiCodersInteligenciaArtificial
     public partial class _Default : Page
     {
         //Chave da Face API que pode ser obtida na sua conta no Portal do Azure
-        private static string minha_chave = "9de2f0b12a49495fbb2622eaedc79eb9";
+        private static string minha_chave = "SUA_CHAVE";
 
         //URL do serviço da API que pode ser obtida na sua conta no Portal do Azure
         private static string url_servico = "https://australiaeast.api.cognitive.microsoft.com/face/v1.0/detect";
